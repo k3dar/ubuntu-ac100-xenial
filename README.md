@@ -1,8 +1,10 @@
 # Porting Ubuntu 16.04 to Toshiba AC100
 
+> :exclamation: **Important:** My AC100 is dead and I cannot support this project anymore. As you may have noticed, issues tab was disabled and probably there will be no updates anymore. Sorry for inconvenience and thanks for your help and suggestions.
+
 ![Overview](https://github.com/nthchild/ubuntu-ac100-xenial/raw/master/screen.png)
 
-**WARNING**: This is **experimental**, slipstreamed Xubuntu desktop. Many things don't work yet. I'm not responsible for any stability and functionality issues.
+This is **experimental**, slipstreamed Xubuntu desktop. Many things don't work yet. I'm not responsible for any stability and functionality issues.
 
 It is **strongly recommended** to use virtual machine/secondary operating system to build root filesystem.
 
@@ -58,6 +60,10 @@ Without them, I wouldn't be able to create this project
 - and many others
 
 ## Changelog
+
+### 2017-04-14
+
+- Installer fixes
 
 ### 2017-02-19
 
