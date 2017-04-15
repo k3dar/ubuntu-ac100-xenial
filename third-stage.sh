@@ -52,7 +52,7 @@ dpkg -i /tmp/linux-image-ac100_3.16*.deb
 
 #### Configure swap 
 
-echo 'vm.swappiness = 15' >> /etc/sysctl.conf
+echo 'vm.swappiness = 15' > /etc/sysctl.d/99-swappiness.conf
 
 #### Add user
 
